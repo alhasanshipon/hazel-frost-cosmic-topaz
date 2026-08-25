@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "বাসওয়ালা — Bangladeshi bus driver songs",
+      "hasCanvas": false,
+      "bodyTextLen": 166,
+      "bodyTextHash": "a6aad559f8a80b9f1276832b919280736a19fc5cc6761931fe3fc7d72fbdaf23",
+      "bodyTextPrefix": "10:20 am 262 on the highway হর্ন ওকে প্লিজ Horn ok pleaseeee বাস",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "বাসওয়ালা — Bangladeshi bus driver songs",
+      "hasCanvas": false,
+      "bodyTextLen": 172,
+      "bodyTextHash": "c6204ede22bda05f288d74f9f3108bcf5797cdb641d4f590c6aa7e6274a8d3f6",
+      "bodyTextPrefix": "10:20 am 383 হর্ন ওকে প্লিজ Horn ok pleaseeee বাস ওয়ালা Bus Wal",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
